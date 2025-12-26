@@ -39,6 +39,8 @@ When managing multiple job postings, powerful filtering options help you quickly
 
 Click the **Quick Create** button to open a dialog that helps you rapidly create a new interview with default settings. This streamlined workflow is perfect when you need to get a job posting up and running quickly.
 
+For detailed step-by-step instructions on using the Quick Create feature, see the [Quick Create Guide](./quick-create.md).
+
 ### Feature 3: Actions Menu
 
 Every job posting in the list includes an **Actions** button with the following options:
@@ -51,6 +53,8 @@ Every job posting in the list includes an **Actions** button with the following 
 ### Feature 4: Create New Interview
 
 Click the **Create New Interview** button for full control over creating a new job posting with granular interview settings and customization options.
+
+For a comprehensive guide on creating job postings with full customization, see [Creating a New Job Posting](./create-new-job.md).
 
 ## Getting Started
 

@@ -13,7 +13,9 @@ Explore the full capabilities of AceUnlock. Each feature is designed to streamli
 ## Core Features
 
 ### Interview Management
-- [Interviews](./interviews.md) - Comprehensive interview scheduling and management
+- [Job Postings](./job-postings.md) - Dashboard to manage job interviews and track applications
+  - [Quick Create](./quick-create.md) - Rapidly create job postings with AI-powered automation
+  - [Create New Job](./create-new-job.md) - Comprehensive job posting creation with full customization
 - [Questions](./question.md) - Question bank and assessment tools
 - [Rubrics](./rubrics.md) - Evaluation rubrics and scoring systems
 

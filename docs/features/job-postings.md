@@ -22,6 +22,8 @@ Job Postings is a comprehensive dashboard that displays a complete list of all j
 - **Deadline**: The application deadline for candidates to apply for this role
 - **Applicants**: Displays the number of candidates who have applied and interviewed with the AI interviewer
 
+![Job Postings Dashboard](../images/job-postings/job-postings.png)
+
 ## Key Features
 
 ### Feature 1: Filter and Search

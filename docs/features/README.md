@@ -3,18 +3,29 @@ title: "AceUnlock Features"
 description: "Complete overview of all AceUnlock features and capabilities"
 category: "features"
 tags: ["features", "capabilities", "overview"]
-last_updated: "2024-12-25"
+last_updated: "2024-12-26"
 ---
 
 # AceUnlock Features
 
-Explore the full capabilities of AceUnlock. Each feature is designed to help you [achieve core value proposition].
+Explore the full capabilities of AceUnlock. Each feature is designed to streamline your interview and recruitment process.
 
 ## Core Features
 
+### Interview Management
+- [Interviews](./interviews.md) - Comprehensive interview scheduling and management
+- [Questions](./question.md) - Question bank and assessment tools
+- [Rubrics](./rubrics.md) - Evaluation rubrics and scoring systems
+
+### Communication
+- [Email Templates](./email-template.md) - Customizable email templates for candidate communication
+
+### Organization & Profiles
+- [Company Management](./company.md) - Company profiles and settings
+- [User Profile](./user-profile.md) - User profile management and settings
+
 ### Authentication & Security
 - [Single Sign-On (SSO)](./sso.md)
-- [Two-Factor Authentication](./two-factor-auth.md)
 - [Role-Based Access Control](./rbac.md)
 - [Security Settings](./security-settings.md)
 

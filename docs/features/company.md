@@ -10,7 +10,7 @@ last_updated: "2024-12-27"
 
 The Company Management page is your central hub for managing your organization's information, subscription plan, team members, and plan utilization on AceUnlock.
 
-![Company Management Dashboard](../images/company/Company.png)
+![Company Management Dashboard](../images/Company/Company.png)
 
 ## Overview
 
@@ -38,7 +38,7 @@ This section displays your company's profile information, including:
 
 To update your organization details:
 
-![Edit Organization Dialog](../images/company/edit-organization.png)
+![Edit Organization Dialog](../images/Company/edit-organization.png)
 
 1. Locate the **Organization Details** section
 2. Click the **Edit icon** (pencil icon) next to "Organization Details"
@@ -87,7 +87,7 @@ The table header displays "2 total" showing the current number of team members i
 
 To add additional team members to your organization:
 
-![Invite Member Dialog](../images/company/invite-member.png)
+![Invite Member Dialog](../images/Company/invite-member.png)
 
 1. Click the **"Invite Member"** button in the Team Members section
 2. A dialog box titled "Invite Member to [Your Organization]" will open with the following fields:

@@ -131,7 +131,6 @@ Prepare for these common questions:
 
 **Listen Carefully**:
 - AI asks questions via audio
-- Question also appears on screen
 - Take a moment to understand fully
 - Ask for clarification if needed
 
@@ -329,10 +328,10 @@ You can ask the AI Interviewer questions! Here's how:
 - What you could have done better
 - Questions you forgot to ask
 
-✅ **Follow up**:
-- Send thank-you email if you have recruiter contact
-- Mention something specific from the interview
-- Reiterate your interest
+✅ **Relax and wait**:
+- You will receive an automatic email notification (1-3 weeks)
+- All candidates are notified, regardless of outcome
+- No need to send follow-up emails
 
 ✅ **Update your materials**:
 - If you realized your resume needs updates
@@ -341,8 +340,9 @@ You can ask the AI Interviewer questions! Here's how:
 ### While Waiting
 
 ✅ **Be patient**:
-- Companies typically respond in 1-2 weeks
+- Companies typically respond in 1-3 weeks
 - Don't stress if you don't hear back immediately
+- The system automatically notifies all candidates
 
 ✅ **Continue job search**:
 - Don't pause other applications
@@ -353,6 +353,11 @@ You can ask the AI Interviewer questions! Here's how:
 - What went well?
 - What could you improve for next time?
 - Practice areas where you struggled
+
+✅ **Check your email**:
+- Watch for status updates
+- Check spam folder occasionally
+- You WILL be notified automatically
 
 ---
 
@@ -482,8 +487,8 @@ You can ask the AI Interviewer questions! Here's how:
 - ✅ Show enthusiasm for the role
 - ✅ Use specific examples
 - ✅ Ask thoughtful questions
-- ✅ Follow up after the interview
 - ✅ Be yourself - let your personality shine
+- ✅ Check your email for status updates (1-3 weeks)
 
 ### Don'ts ❌
 

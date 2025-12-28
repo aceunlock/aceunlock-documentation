@@ -592,42 +592,16 @@ Yes. We take security seriously:
 - **Data encryption**: TLS 1.3 in transit, AES-256 at rest
 - **Access controls**: Role-based permissions
 - **Regular audits**: Annual security audits
-- **SOC 2 Type II**: Certified (available to Enterprise customers)
-- **GDPR compliant**: Full compliance with privacy regulations
 - **Data isolation**: Your data is never shared with other customers
 
 ### Where is data stored?
 
 **Primary servers**: US-East (Virginia, USA)
 
-**Data residency options** (Enterprise only):
-- EU-West (Ireland)
-- Asia-Pacific (Singapore)
-- Custom regions available
 
 ### Do you support SSO?
 
-Yes. SAML-based SSO available on Enterprise plans:
-- Google Workspace
-- Microsoft Azure AD
-- Okta
-- OneLogin
-- Custom SAML providers
-
-Setup takes 1-2 weeks.
-
-### Are you GDPR compliant?
-
-Yes. We comply with:
-- **GDPR** (EU)
-- **CCPA** (California)
-- **Other privacy regulations**
-
-Features:
-- Right to access (candidates can download their data)
-- Right to deletion (data deleted on request)
-- Data processing agreements (DPA)
-- Privacy by design
+Currently not supported but we plan SSO support in second quarter of 2026.
 
 ### Can candidates delete their data?
 
@@ -640,11 +614,9 @@ We delete data within 30 days of request (unless required for legal compliance).
 
 ### How long do you retain candidate data?
 
-- **Active candidates**: Indefinitely (until deleted by you)
-- **Rejected/Inactive**: You choose retention period (30, 60, 90 days, or indefinitely)
+- **candidates**: Indefinitely (until deleted by you)
 - **Deleted accounts**: Data purged after 90 days
 
-You control data retention policies in Company Settings.
 
 ---
 

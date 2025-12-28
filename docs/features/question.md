@@ -1,9 +1,8 @@
 ---
 title: "Interview Questions"
 description: "Question bank and management system for AI interviews"
-category: "features"
-tags: ["questions", "assessment", "interview", "question-bank"]
-last_updated: "2024-12-26"
+parent: "Features"
+nav_order: 7
 ---
 
 # Interview Questions

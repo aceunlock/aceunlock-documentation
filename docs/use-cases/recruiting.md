@@ -1,9 +1,8 @@
 ---
-title: "AceUnlock for Recruiting Agencies"
+title: "Recruiting Agencies"
 description: "Win more placements with AI-powered technical screening and quality candidate assessment"
-category: "use-cases"
-tags: ["recruiting", "agencies", "headhunting", "staffing", "placement"]
-last_updated: "2024-12-27"
+parent: "Use Cases"
+nav_order: 2
 ---
 
 # AceUnlock for Recruiting Agencies

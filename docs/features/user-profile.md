@@ -1,9 +1,8 @@
 ---
 title: "User Profile"
 description: "User profile management and settings"
-category: "features"
-tags: ["user", "profile", "settings"]
-last_updated: "2024-12-27"
+parent: "Features"
+nav_order: 9
 ---
 
 # User Profile

@@ -1,9 +1,8 @@
 ---
-title: "AceUnlock for Retail"
+title: "Retail"
 description: "Scale your retail hiring with AI-powered interviews for customer-facing roles"
-category: "use-cases"
-tags: ["retail", "stores", "customer-service", "high-volume", "seasonal-hiring"]
-last_updated: "2024-12-27"
+parent: "Use Cases"
+nav_order: 4
 ---
 
 # AceUnlock for Retail

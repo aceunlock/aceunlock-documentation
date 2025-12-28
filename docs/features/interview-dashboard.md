@@ -1,9 +1,8 @@
 ---
 title: "Interview Dashboard"
 description: "Monitor and manage candidate interviews in real-time"
-category: "features"
-tags: ["interview", "dashboard", "monitoring", "candidates"]
-last_updated: "2024-12-27"
+parent: "Features"
+nav_order: 2
 ---
 
 # Interview Dashboard

@@ -1,9 +1,8 @@
 ---
-title: "AceUnlock for Startups"
+title: "Startups"
 description: "Move fast and hire the best talent with AI-powered interviews"
-category: "use-cases"
-tags: ["startups", "early-stage", "scaling", "growth", "hiring"]
-last_updated: "2024-12-27"
+parent: "Use Cases"
+nav_order: 1
 ---
 
 # AceUnlock for Startups

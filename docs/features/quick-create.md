@@ -1,9 +1,8 @@
 ---
 title: "Quick Create Job Posting"
 description: "Rapidly create job postings with AI-powered automation"
-category: "features"
-tags: ["quick-create", "job-postings", "AI", "automation"]
-last_updated: "2025-12-26"
+parent: "Features"
+nav_order: 4
 ---
 
 # Quick Create Job Posting

@@ -1,9 +1,9 @@
 ---
-title: "AceUnlock Use Cases"
+title: "Use Cases"
 description: "Industry-specific guides and use cases for AceUnlock"
-category: "use-cases"
-tags: ["use-cases", "industries", "examples"]
-last_updated: "2024-12-25"
+has_children: true
+nav_order: 3
+permalink: /use-cases/
 ---
 
 # AceUnlock Use Cases

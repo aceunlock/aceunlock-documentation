@@ -1,9 +1,8 @@
 ---
 title: "Evaluation Rubrics"
 description: "AI-powered evaluation rubrics and scoring system"
-category: "features"
-tags: ["rubrics", "evaluation", "scoring", "assessment", "AI"]
-last_updated: "2024-12-26"
+parent: "Features"
+nav_order: 6
 ---
 
 # Evaluation Rubrics

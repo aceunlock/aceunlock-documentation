@@ -1,9 +1,8 @@
 ---
 title: "Company Management"
 description: "Company profiles and settings"
-category: "features"
-tags: ["company", "organization", "settings"]
-last_updated: "2024-12-27"
+parent: "Features"
+nav_order: 1
 ---
 
 # Company Management

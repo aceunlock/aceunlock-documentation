@@ -1,9 +1,8 @@
 ---
 title: "Create New Job Posting"
 description: "Comprehensive guide to creating job postings with full control and customization"
-category: "features"
-tags: ["job-postings", "creation", "interviews", "configuration"]
-last_updated: "2025-12-26"
+parent: "Features"
+nav_order: 3
 ---
 
 # Create New Job Posting

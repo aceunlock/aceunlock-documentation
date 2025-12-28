@@ -1,9 +1,9 @@
 ---
-title: "Getting Started with AceUnlock"
+title: "Getting Started"
 description: "Complete guide to getting started with AceUnlock"
-category: "getting-started"
-tags: ["onboarding", "setup", "basics"]
-last_updated: "2024-12-25"
+has_children: true
+nav_order: 1
+permalink: /getting-started/
 ---
 
 # Getting Started with AceUnlock

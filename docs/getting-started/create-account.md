@@ -1,9 +1,8 @@
 ---
-title: "Getting Started with AceUnlock"
+title: "Create Account"
 description: "Complete guide to setting up your AceUnlock account and getting started with AI-powered recruitment"
-category: "getting-started"
-tags: ["account", "signup", "registration", "onboarding", "trial"]
-last_updated: "2024-12-27"
+parent: "Getting Started"
+nav_order: 1
 ---
 
 # Getting Started with AceUnlock

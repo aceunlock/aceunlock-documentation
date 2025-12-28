@@ -1,9 +1,9 @@
 ---
-title: "Frequently Asked Questions"
+title: "FAQ"
 description: "Common questions and answers about AceUnlock"
-category: "faq"
-tags: ["faq", "questions", "help"]
-last_updated: "2024-12-25"
+has_children: false
+nav_order: 4
+permalink: /faq/
 ---
 
 # Frequently Asked Questions

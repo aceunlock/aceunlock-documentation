@@ -1,9 +1,8 @@
 ---
-title: "AceUnlock for Hospitality & Hotels"
+title: "Hospitality & Hotels"
 description: "High-volume hiring for restaurants, hotels, and hospitality with AI-powered video interviews"
-category: "use-cases"
-tags: ["hospitality", "hotels", "restaurants", "high-volume", "guest-service"]
-last_updated: "2024-12-27"
+parent: "Use Cases"
+nav_order: 3
 ---
 
 # AceUnlock for Hospitality & Hotels

@@ -1,9 +1,9 @@
 ---
-title: "AceUnlock Features"
+title: "Features"
 description: "Complete overview of all AceUnlock features and capabilities"
-category: "features"
-tags: ["features", "capabilities", "overview"]
-last_updated: "2024-12-26"
+has_children: true
+nav_order: 2
+permalink: /features/
 ---
 
 # AceUnlock Features

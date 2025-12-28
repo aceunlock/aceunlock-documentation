@@ -1,9 +1,8 @@
 ---
 title: "Job Postings and Interviews"
 description: "Dashboard to manage job interviews and track applications"
-category: "features"
-tags: ["interviews", "management", "scheduling", "job-postings"]
-last_updated: "2025-12-26"
+parent: "Features"
+nav_order: 5
 ---
 
 # Job Postings

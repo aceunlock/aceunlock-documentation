@@ -1,9 +1,9 @@
 ---
-title: "Troubleshooting Guide"
+title: "Troubleshooting"
 description: "Solutions to common issues and errors"
-category: "troubleshooting"
-tags: ["troubleshooting", "errors", "problems", "solutions"]
-last_updated: "2024-12-25"
+has_children: false
+nav_order: 5
+permalink: /troubleshooting/
 ---
 
 # Troubleshooting Guide

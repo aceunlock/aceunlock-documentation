@@ -1,9 +1,8 @@
 ---
 title: "Email Templates"
 description: "Customizable email templates for communication"
-category: "features"
-tags: ["email", "templates", "communication"]
-last_updated: "2024-12-27"
+parent: "Features"
+nav_order: 8
 ---
 
 # Email Templates

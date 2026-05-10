@@ -66,52 +66,7 @@ As you scroll down, you'll see:
 
 ---
 
-## Step 2: Upload Resume (If Required)
-
-**Important**: This step **only appears if the employer requires a resume** for this position. If you don't see a resume upload screen, the employer has made it optional or not required, and you'll proceed directly to email verification.
-
-### What You'll See (If Resume is Required)
-
-- Upload area for your resume
-- Supported file formats (PDF, DOC, DOCX)
-- File size limit (usually 5-10 MB)
-- "Next" button to continue
-
-### What to Do
-
-1. **Click "Choose File"** or drag and drop your resume
-2. **Wait for upload confirmation** (green checkmark or success message)
-3. **Click "Next"** to continue to email verification
-
-### Supported Formats
-
-- ✅ PDF (.pdf) - **Recommended** (best compatibility)
-- ✅ Word (.doc, .docx)
-- ❌ Images (JPG, PNG) - Not supported
-- ❌ Plain text (.txt) - Not supported
-
-### File Requirements
-
-- **Maximum size**: 10 MB
-- **File name**: Can be anything, but avoid special characters
-- **Content**: Ensure your resume is current and accurate
-
-### Troubleshooting
-
-**"File too large" error**:
-- Compress your PDF (use online PDF compressor)
-- Save Word document without embedded images
-- Remove unnecessary graphics
-
-**Upload fails**:
-- Check your internet connection
-- Try a different browser (Chrome recommended)
-- Ensure file is not corrupted (try opening it first)
-- Contact support: support@aceunlock.com
-
----
-
-## Step 3: Email Verification (Pre-Interview Step 1)
+## Step 2: Email Verification (Pre-Interview Step 1)
 
 After uploading your resume (or skipping if not required), you'll enter the pre-interview setup process.
 
@@ -159,6 +114,52 @@ After uploading your resume (or skipping if not required), you'll enter the pre-
 4. On next screen, click "Resend Code"
 5. Try a different email address
 6. Contact support: support@aceunlock.com
+
+---
+
+
+## Step 3: Upload Resume (If Required)
+
+**Important**: This step **only appears if the employer requires a resume** for this position. If you don't see a resume upload screen, the employer has made it optional or not required, and you'll proceed directly to email verification.
+
+### What You'll See (If Resume is Required)
+
+- Upload area for your resume
+- Supported file formats (PDF, DOC, DOCX)
+- File size limit (usually 5-10 MB)
+- "Next" button to continue
+
+### What to Do
+
+1. **Click "Choose File"** or drag and drop your resume
+2. **Wait for upload confirmation** (green checkmark or success message)
+3. **Click "Next"** to continue to email verification
+
+### Supported Formats
+
+- ✅ PDF (.pdf) - **Recommended** (best compatibility)
+- ✅ Word (.doc, .docx)
+- ❌ Images (JPG, PNG) - Not supported
+- ❌ Plain text (.txt) - Not supported
+
+### File Requirements
+
+- **Maximum size**: 10 MB
+- **File name**: Can be anything, but avoid special characters
+- **Content**: Ensure your resume is current and accurate
+
+### Troubleshooting
+
+**"File too large" error**:
+- Compress your PDF (use online PDF compressor)
+- Save Word document without embedded images
+- Remove unnecessary graphics
+
+**Upload fails**:
+- Check your internet connection
+- Try a different browser (Chrome recommended)
+- Ensure file is not corrupted (try opening it first)
+- Contact support: support@aceunlock.com
 
 ---
 

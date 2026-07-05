@@ -37,7 +37,7 @@ This section displays your company's profile information, including:
 
 To update your organization details:
 
-![Edit Organization Dialog](../images/Company/edit-organization.png)
+![Edit Organization Dialog](../images/Company/basic-info.png)
 
 1. Locate the **Organization Details** section
 2. Click the **Edit icon** (pencil icon) next to "Organization Details"
@@ -54,6 +54,106 @@ To update your organization details:
    - **Phone**: Contact phone number
    - **Primary Contact Name**: Main contact person
 5. Click **"Save Changes"** to apply your updates, or **"Cancel"** to discard
+
+### Additional Organization Settings
+
+The **Edit Organization** dialog is divided into several collapsible sections. The first, **Basic Information**, holds the fields above and is populated when the organization is first created. Below it are additional sections that control your branding and the candidate's interview experience. Expand any section to edit it, then click **Save Changes** to apply all of your changes at once.
+
+By default, the branding, consent, welcome message, and notification features described below are turned off.
+
+### Branding & White-label
+
+The **Branding & White-label** section lets you present your own company identity to candidates instead of AceUnlock's default branding.
+
+![Branding and White-label settings](../images/Company/branding-white-label.png)
+
+**Logo URL**
+
+Enter a direct link to your organization's logo in the **Logo URL** field. Once set, your logo appears on the candidate-facing side, such as on the job posting a candidate views before applying. For example, if Google adds its logo here, candidates see the Google logo on the posting. The field expects a publicly accessible image URL rather than a file upload.
+
+**Enable White-label Configuration**
+
+Turn on **Enable White-label Configuration** to extend your branding beyond the logo, including your brand **colors**, a custom **domain**, and a **sender email**.
+
+<!-- **Note**: White-label color and branding customization is still being rolled out and may not be fully functional yet. The organization logo can be set today. -->
+
+### Custom Consent
+
+The **Custom Consent** section lets you show candidates your own consent or policy screen before their interview begins. It is turned off by default.
+
+Without custom consent, a candidate who applies to a job goes from the job posting straight to a screen where they enter their email, name, and LinkedIn URL. Enabling custom consent inserts your own screen into this flow, which is useful when your company needs every candidate to acknowledge specific terms, policies, or an AI-use disclosure.
+
+![Custom Consent settings](../images/Company/custom-consent.png)
+
+To set it up:
+
+1. Turn on **Enable Custom Consent**.
+2. Complete the four fields that make up the screen:
+   - **Title**: The heading candidates see
+   - **Body**: The main consent or policy text, for example a note that your interviews are conducted by an AI interviewer
+   - **Checkbox Label**: The text next to the checkbox each candidate must select, for example "I understand and consent to ..."
+   - **Footer**: Supporting text at the bottom, such as a support contact
+3. Click **Load sample** to insert example content, then replace the placeholders with your company name and wording.
+4. Click **Save Changes**. Candidates now see your consent screen, including the required checkbox, before the interview starts.
+
+### Welcome Video
+
+The **Welcome Video** section adds a human touch to the start of the interview by greeting candidates before they begin. It is turned off by default.
+
+![Welcome Video settings](../images/Company/welcome-video.png)
+
+1. Turn on **Show a welcome video to candidates**.
+2. Choose a language for the content. **English** is the default and is shown whenever a candidate's language is not available. Click **Add language** to provide versions in other languages.
+3. Enter a **Title** and **Message**. A message on its own is enough, since the video is optional. For example, a message might begin "Hi, I'm Alex ..." with the name changed to your interviewer.
+4. To make the greeting more personal, add a short video using one of three methods:
+   - **Link**: Paste a video URL into the **Video URL** field
+   - **Upload**: Upload a video file you already have
+   - **Record**: Record a video on the spot
+5. Click **Load sample** to populate example content, or **Preview welcome message** to see exactly what the candidate will experience.
+6. Click **Save Changes**.
+
+The welcome screen appears before the interview room. If custom consent is also enabled, the candidate sees the welcome message first, then the consent screen, then the interview.
+
+### Recruiter Notifications
+
+The **Recruiter Notifications** section controls whether your team is emailed when candidates finish interviews. By default, recruiters are not notified.
+
+![Recruiter Notifications settings](../images/Company/recruiter-notifications.png)
+
+1. Turn on **Enable interview completion notifications** to email your team whenever a candidate completes an interview.
+2. Choose one or both delivery options:
+   - **Immediate**: Sends an email as soon as each interview is evaluated. This works best when you expect only a few interviews a day and want to know right away.
+   - **Daily Digest**: Sends a single summary email covering the last 24 hours, listing every candidate who interviewed. This works best for high interview volumes.
+3. Add the email addresses that should receive notifications. Immediate and Daily Digest can go to different recipients, so you might send the digest to your head of talent and immediate alerts to a specific recruiter.
+4. Click **Save Changes**.
+
+### Automation Rules
+
+The **Automation Rules** section lets you define organization-wide rules that run automatically across every job. Individual jobs can override these rules with their own. By default, no rules exist.
+
+![Automation Rules settings](../images/Company/automation-rules.png)
+
+To create a rule:
+
+1. Add a rule and give it a **Rule name**, for example "Notify manager of strong candidates." Use the **Enabled** toggle to turn the rule on or off, and the trash icon to delete it.
+2. Set the **Trigger** that starts the rule, such as **When interview evaluation completes**.
+3. Define the **Conditions** that decide when the rule applies:
+   - Check **Always fire (no conditions)** to run the rule every time the trigger occurs, or
+   - Set the rule to match **All** or **Any** of your conditions, then build each condition from a **Field** (for example, AI score %), an **Operator** (for example, >=), and a **Value** (for example, 70). Click **Add condition** to add more.
+4. Define the **Actions** that run when the conditions are met. For example, choose **Send email**, select a **Template** such as **Interview Round Success**, and choose who to **Send to**, such as the candidate or the recruiters from your notification settings. Click **Add action** to add more.
+5. Click **Save Changes**.
+
+### Candidate Experience: Order of Screens
+
+When the welcome message and custom consent are enabled, candidates move through these screens in order:
+
+1. **Job posting**: The candidate views the role, along with your logo if branding is set.
+2. **Application details**: The candidate enters their email, name, and LinkedIn URL.
+3. **Welcome message**: The welcome screen plays, including the video if you added one.
+4. **Custom consent**: The candidate reviews your consent text and accepts the checkbox.
+5. **Interview room**: The AI interview begins.
+
+Any section that is disabled is simply skipped in this flow.
 
 **Note**: Changes to company information are immediately reflected across your AceUnlock account and may appear in candidate-facing materials.
 
